@@ -14,7 +14,7 @@ Their uses are detailed in the code provided at [quantum java](https://github.co
 4) source .quantum_set   
 5) chmod 755 c290.sh   
 6) ./c290.sh   
-7) Et voila!   
+7) echo "Et voila!"   
   
      
 You are now all set to enjoy simulating quantum circuits in Java   
