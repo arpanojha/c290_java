@@ -9,8 +9,8 @@ Their uses are detailed in the code provided at [quantum java](https://github.co
    
 ### Follow the steps below to enjoy quantum simulation with Java:     
 1) Choose your favourite spot in commandline    
-2) git clone https://github.com/arpanojha/c290_java.git
-3) cd c290_java
+2) git clone https://github.com/arpanojha/c290_java.git    
+3) cd c290_java   
 4) source .quantum_set   
 5) chmod 755 c290.sh   
 6) ./c290.sh   
